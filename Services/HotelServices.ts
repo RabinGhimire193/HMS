@@ -1,4 +1,4 @@
-import { Hotel } from '../models/Hotel';
+import { Hotel } from '../Models/Hotel';
 
 export class HotelService {
     private hotels: Hotel[] = [];

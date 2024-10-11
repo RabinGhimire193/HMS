@@ -1,4 +1,4 @@
-import { Booking } from '../models/Booking';
+import { Booking } from '../Models/Booking';
 
 export class BookingService {
     private bookings: Booking[] = [];
