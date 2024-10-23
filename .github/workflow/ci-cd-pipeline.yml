@@ -1,6 +1,6 @@
 name: CI/CD Pipeline
 
-# Define when the workflow will run
+# Define when the workflow will run here
 on:
   push:
     branches:
